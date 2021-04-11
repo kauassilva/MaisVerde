@@ -3,5 +3,5 @@
 
 <br><br>
 <h3 align="center"> 
-	🚧  MaisVerde - create account page :seedling: Finalizado...  🚧
+	🚧  MaisVerde - create account page :seedling: Em construção...  🚧
 </h3>
