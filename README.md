@@ -11,6 +11,11 @@
 ## Screenshot
 ![](images/maisVerde.png)
 
+## Autor / Author
+|<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65837027?s=400&u=b5f8d790d89c798314129586c659cfa7ab7761ba&v=4" width="100px;" alt=""/>| | |
+| ---- | ---- | ---- |
+|[@Kauassilva](https://github.com/kauassilva)|[![Linkedin Badge](https://img.shields.io/badge/-Kauã-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-dos-santos-silva-9a298b1aa/)](https://www.linkedin.com/in/kau%C3%A3-dos-santos-silva-9a298b1aa/)|[![Gmail Badge](https://img.shields.io/badge/-kauasantosdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauasantosdev@gmail.com)](mailto:kauasantosdev@gmail.com)|
+
 ## :brazil: Créditos
 :thumbsup: O MaisVerde é uma inspiração de um [vídeo](https://www.youtube.com/watch?v=mSAEGEAnyIY&t=627s&ab_channel=OnlineTutorials) do canal [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog).
 <br>
