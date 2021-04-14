@@ -8,8 +8,10 @@
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page"><img alt="GitHub license" src="https://img.shields.io/github/license/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
 
-## Screenshot
-![](images/maisVerde.png)
+## Screenshots
+| ![](images/maisVerdeN.png) | ![](images/maisVerdeT.png) | ![](images/maisVerdeC.png) |
+| :---: | :---: | :---: |
+| Width: 1336px | Width: 635px | Width: 420px |
 
 ## Autor / Author
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65837027?s=400&u=b5f8d790d89c798314129586c659cfa7ab7761ba&v=4" width="100px;" alt=""/>
