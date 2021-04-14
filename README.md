@@ -16,7 +16,7 @@
 
 [@Kauassilva](https://github.com/kauassilva)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kauã-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-dos-santos-silva-9a298b1aa/)](https://www.linkedin.com/in/kau%C3%A3-dos-santos-silva-9a298b1aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kauã-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-santos/)](https://www.linkedin.com/in/kaua-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-kauasantosdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauasantosdev@gmail.com)](mailto:kauasantosdev@gmail.com)
 
 ## Créditos / Credits
