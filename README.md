@@ -9,7 +9,6 @@
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page"><img alt="GitHub license" src="https://img.shields.io/github/license/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
 
 ## Screenshots
-<br>
 <h4 align="center">💻 Página de cadastro / Registration Page 💻</h4>
 
 ---
