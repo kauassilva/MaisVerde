@@ -1,6 +1,6 @@
-# 🌱 MaisVerde - create account page 🌱
-### Formulário de cadastro para sites relacionados à natureza (somente ilustrativo) feito em HTML e CSS.
-### Registration form for sites related to nature (illustrative only) done in HTML and CSS.
+# 🌱 MaisVerde 🌱
+#### Portal de notícias referentes à natureza, totalmente funcional com conexão e interações com um Banco de Dados.
+#### Nature news portal, fully functional with connection and interaction with database.
 
 <br>
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
@@ -9,6 +9,10 @@
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page"><img alt="GitHub license" src="https://img.shields.io/github/license/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
 
 ## Screenshots
+<br>
+<h4 align="center">💻 Página de cadastro / Registration Page 💻</h4>
+
+---
 | ![](images/maisVerdeN.png) | ![](images/maisVerdeT.png) | ![](images/maisVerdeC.png) |
 | :---: | :---: | :---: |
 | Width: 1336px | Width: 635px | Width: 420px |
@@ -31,6 +35,4 @@
 👍 the image used for the MaisVerde theme was created by [@tawatchai07](https://br.freepik.com/tawatchai07) from the [freepik](https://br.freepik.com/home) website.
 
 <br>
-<h3 align="center"> 
-	🚧  MaisVerde - create account page 🌱 Finalizado / Finished  🚧
-</h3>
+<h3 align="center">🚧  MaisVerde 🌱 Em contrução / Under construction  🚧</h3>
