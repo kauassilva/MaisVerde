@@ -1,6 +1,6 @@
 # 🌱 MaisVerde 🌱
-#### Portal de notícias referentes à natureza, totalmente funcional com conexão e interações com um Banco de Dados.
-#### Nature news portal, fully functional with connection and interaction with database.
+#### Página responsiva de registro de usuário com tema de natureza.
+#### Responsive nature-themed user registration page.
 
 <br>
 <a href="https://github.com/kauassilva/MaisVerde-create-account-page/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kauassilva/MaisVerde-create-account-page?style=flat-square"></a>
@@ -34,4 +34,4 @@
 👍 the image used for the MaisVerde theme was created by [@tawatchai07](https://br.freepik.com/tawatchai07) from the [freepik](https://br.freepik.com/home) website.
 
 <br>
-<h3 align="center">🚧  MaisVerde 🌱 Em contrução / Under construction  🚧</h3>
+<h3 align="center">🌱  MaisVerde  🌱</h3>
